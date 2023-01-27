@@ -19,6 +19,11 @@ Projeto desenvolvido para teste de CRUD em um banco de dados (MySql) e uma [Api]
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<div><img style="display:flex" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><p style="display:flex"> | PHP </p></div>
+<ul>
+  <li><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><p> | PHP </p></li>
+  <li><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><p> | <a href="https://getbootstrap.com/">Bootstrap</a></p></li>
+  <li></li>
+</ul>
+<div><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><p> | PHP </p></div>
 <div><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><p> | <a href="https://getbootstrap.com/">Bootstrap</a></p></div>
 <div><img height=45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /><p> | <a href="https://getbootstrap.com/">Composer</a></p></div>
